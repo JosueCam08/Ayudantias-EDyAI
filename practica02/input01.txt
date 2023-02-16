@@ -1,0 +1,13 @@
+1 Espadachin
+11
+H Ravager 100
+H Zombie 20
+D
+Y
+H Creeper 20
+H Enderman 40
+H Enderman 40
+D
+K
+Y
+H Zombie 20
