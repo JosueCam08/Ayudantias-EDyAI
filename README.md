@@ -1,4 +1,3 @@
-
 # ENG | Teaching Assistant of Data Structura and Algorithms I
 
 This repository contains the practices carried out in the Data Structure and Algorithms 1 course for the period *January-June 2023* taught by Dr. Adrian Pastor Lopez Monroy and Dr. Fernando Sanchez Vega.
@@ -15,7 +14,8 @@ In each folder with the title `practicaN` contains the material used for the pra
    - **Code:** The *input* of the problems and the format of the expected *output*.
 - `cpp` files which are the solutions to the practice problems.
 - Files `in` and `out` which are test cases to the problems and their respective *output* to verify the correct functioning of the implementations to grade.
-## ESP | Ayudante de Estructura de Datos y Algoritmos I
+
+# ESP | Ayudante de Estructura de Datos y Algoritmos I
 
 Este repositorio son las practicas realizar del curso de Estructura de Datos y Algoritmos I del periodo *enero-junio 2023* impartidas por el Dr. Adrian Pastor Lopez Monroy y el Dr. Fernando Sanchez Vega.
 
