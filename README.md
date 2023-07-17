@@ -4,6 +4,7 @@ This repository contains the practices carried out in the Data Structure and Alg
 
 The content of the course was the following:
 - DSU
+- Classes and Objects
 
 In each folder with the title `practicaN` contains the material used for the practice with numbering $N$. The content of each folder is as follows:
 
@@ -20,7 +21,9 @@ In each folder with the title `practicaN` contains the material used for the pra
 Este repositorio son las practicas realizar del curso de Estructura de Datos y Algoritmos I del periodo *enero-junio 2023* impartidas por el Dr. Adrian Pastor Lopez Monroy y el Dr. Fernando Sanchez Vega.
 
 Los contenido del curso fue el siguiente:
+
 - DSU
+- Classes and Objects
 
 En cada carpeta con el titulo `practicaN` contiene el material utilizado para la practica con numeracion $N$. El contenido de cada carpeta es el siguiente:
 
